@@ -1,0 +1,1 @@
+//sei tipi di pezzi: il pedone, la torre, il cavallo, l'alfiere, la donna e il re
