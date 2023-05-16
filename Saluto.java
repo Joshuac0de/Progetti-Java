@@ -1,4 +1,4 @@
-public class Saluto(){
+public class Saluto{
 
-  
+
 }
